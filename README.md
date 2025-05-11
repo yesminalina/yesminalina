@@ -13,7 +13,7 @@ Hey there! I’m Yesmin—a pharmacist by day 🧪 and a Computer Engineering st
 
 ## 👀 Watch my portfolio
 
-[Yesmin's Portfolio](www.yesminpizarro.cl)
+[Yesmin's Portfolio](https://yesminalina.netlify.app/)
 
 ## 🛠️ My Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
