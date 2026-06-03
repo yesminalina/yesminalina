@@ -13,7 +13,7 @@ I build fullstack web products end to end with React, Node and Typescript. I'm e
 
 ## 👀 Watch my portfolio
 
-[Yesmin's Portfolio](https://yesminalina.cl/)
+[Yesmin's Portfolio](https://yesminpizarro.cl/)
 
 ## 🛠️ My Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
