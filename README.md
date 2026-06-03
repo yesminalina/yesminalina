@@ -1,6 +1,6 @@
 ## Hi there 👋 - Welcome to my Github
 
-Hey there! I’m Yesmin—a pharmacist by day 🧪 and a Computer Engineering student by night 💻. I live in Santiago, Chile 📍. Professionally, I’ve been developing pharmaceutical products, but a while ago I decided to reconnect with my childhood passions and dove headfirst into the software world 🚀✨.
+I build fullstack web products end to end with React, Node and Typescript. I'm especially at home where the details can't be wrong: regulated, compliance-heavy domains I already know from the inside thanks to my deep roots in the pharmaceutical world. 🚀✨.
 
   
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4dHAzMGFtcDJvZmVhY2NjMjlqY3JwMm1xcHFjNzhzZXFhOHhkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UvPvsX9oMlMWs/giphy.gif" width=50>
@@ -8,12 +8,12 @@ Hey there! I’m Yesmin—a pharmacist by day 🧪 and a Computer Engineering st
 
 ## 🐜 I’m currently working on
 
-🚀 I’m currently working on ReactJS projects that help me take the web development skills I gained in the Desafío Latam Fullstack JavaScript Bootcamp to the next level 💻⚛️📈
+🚀 I’m currently working on fullstack projects that solve real problems and help me to get to the next level. 💻⚛️📈
 
 
 ## 👀 Watch my portfolio
 
-[Yesmin's Portfolio](https://yesminalina.netlify.app/)
+[Yesmin's Portfolio](https://yesminalina.cl/)
 
 ## 🛠️ My Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
